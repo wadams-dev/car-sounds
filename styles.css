@@ -9,10 +9,12 @@ h1 {
   text-shadow: 3px 0 #c92c10;
 }
 
-footer {
+.text {
   font-family: sans-serif;
 }
-
+.warning {
+  color: red;
+}
 .lamborghini {
   background-image: url("https://robbreportedit.files.wordpress.com/2018/06/lambo-huracan-performante.jpg");
   background-size: cover;
