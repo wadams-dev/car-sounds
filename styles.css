@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  background-color: #ccc;
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #c92c10;
+}
+
+footer {
+  font-family: sans-serif;
+}
+
+.lamborghini {
+  background-image: url("https://robbreportedit.files.wordpress.com/2018/06/lambo-huracan-performante.jpg");
+  background-size: cover;
+}
+
+.porsche {
+  background-image: url("https://autonxt.net/wp-content/uploads/2018/03/autocontentexp.comDSC02640_2500-329a08ff578d5a529c2a151152a6c3e0692ec990.jpg");
+  background-size: cover;
+}
+
+.ferrari {
+  background-image: url("https://blog.dupontregistry.com/wp-content/uploads/2017/12/fux_ferrari_f12tdf-1.jpg");
+  background-size: cover;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 5px 5px 1px #000;
+  opacity: 0.5;
+}
+
+.car {
+  outline: none;
+  border: 10px solid #000;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #fff;
+  text-shadow: 3px 0 #000;
+  text-align: center;
+}
